@@ -1,0 +1,24 @@
+---
+title: "eds212-day3-tasks"
+format: html
+editor: visual
+---
+
+#### Part 2
+
+Creating the two vectors
+
+```{r}
+vec_a <- c(1,6)
+vec_b <- c(2,4)
+```
+
+Checking my solutions from Part 1
+```{r}
+vec_a + vec_b
+vec_b - vec_a
+2 * vec_a
+vec_a %*% vec_b
+```
+Got them all right, yay!
+
